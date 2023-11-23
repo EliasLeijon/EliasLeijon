@@ -47,15 +47,21 @@ Some relevant University courses:
 
 <h2 align='center'>🛠️ Tools and Frameworks</h2>
 <div align='center'>
-<a href="https://git-scm.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 <a href="https://www.python.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
 <a href="https://pytorch.org/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/></a>
 <a href="https://jupyter.org/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/></a>
 <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style='padding-right:10px;'/></a>
+
+<a href="https://www.oracle.com/java/technologies/downloads/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
+
 <a href="https://www.r-project.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
 <a href="https://posit.co/products/open-source/rstudio/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /></a>
+
+<a href="https://isocpp.org/"><img width=40px style='padding-right:10px;' src="https://isocpp.org/assets/images/cpp_logo.png" /></a>
+
+<a href="https://dotnet.microsoft.com/en-us/"><img width=40px style='padding-right:10px;' src="https://www.pulumi.com/logos/tech/dotnet.png"/></a>
+
 <a href="https://matlab.mathworks.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/></a>       
-<a href="https://www.oracle.com/java/technologies/downloads/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
 <a><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
 <a><img width=40px style='padding-right:10px;' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" /></a>
 <a><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
@@ -65,12 +71,13 @@ Some relevant University courses:
 <a href="https://reactjs.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 <a href="https://nodejs.org/en/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 <a href="https://flask.palletsprojects.com/"  rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style='padding-right:10px;'/></a>
+
 <a href="https://firebase.google.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></a>
 <a href="https://www.mysql.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 <a href="https://www.postgresql.org/"><img width=40px style='padding-right:10px;' src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" /></a>
 <a href="https://www.sqlite.org/" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style='padding-right:10px;'/></a>
 <a href="https://www.docker.com"><img width=50px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
-<a href="https://www.figma.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+
 </div>
 
 #
