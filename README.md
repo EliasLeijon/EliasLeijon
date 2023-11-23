@@ -29,10 +29,9 @@ Some relevant University courses:
   <li>Bayesian Learning - TDDE07</item>
   <li>Advanced C++ - TDDE15</item>
   <li>Advanced Project Course - AI and Machine Learning - TDDE19</item>
-  <li>Financial valuation</item>
-  <li>Corporate finance</item>
-  <li>Financial risk management</item>
-  <li>Financial valuation</item>
+  <li>Financial Valuation Methodology - TPPE53</item>
+  <li>Investment Valuation - TPPE66</item>
+  <li>Financial Risk Management - TPPE32</item>
 </ul>
 
 <p> I have a passion for various fields, including but not limited to, Computer Vision, Natural Language Processing, and algorithmic trading. I am also currently working on a few projects that I have to keep private, for example a stock trading bot, and a model for detecting ovarian cancer. If you share my passion and would like to work on something together, please feel free to reach out by email or through LinkedIN.</p>
