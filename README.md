@@ -44,14 +44,18 @@ Some relevant University courses:
 </div>
 
 ---
+
 <h2 align='center'>Languages</h2>
+<div align='center'>
 <a href="https://www.python.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+<a href="https://isocpp.org/"><img width=40px style='padding-right:10px;' src="https://isocpp.org/assets/images/cpp_logo.png" /></a>
 <a href="https://www.oracle.com/java/technologies/downloads/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
 <a href="https://matlab.mathworks.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/></a>       
 <a href="https://www.r-project.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
-<a ><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-<a> <img width=40px style='padding-right:10px;' src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" /></a>
-<a> <img width=40px style='padding-right:10px;' src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" /></a>
+<a style="padding-right: 10px;"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+<a> <img width=40px style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" /></a>
+<a> <img width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" /></a>
+</div>
 
 <h2 align='center'>🛠️ Tools and Frameworks</h2>
 <div align='center'>
@@ -59,7 +63,6 @@ Some relevant University courses:
 <a href="https://jupyter.org/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/></a>
 <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style='padding-right:10px;'/></a>
 <a href="https://posit.co/products/open-source/rstudio/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /></a>
-<a href="https://isocpp.org/"><img width=40px style='padding-right:10px;' src="https://isocpp.org/assets/images/cpp_logo.png" /></a>
 <a href="https://dotnet.microsoft.com/en-us/"><img width=40px style='padding-right:10px;' src="https://www.pulumi.com/logos/tech/dotnet.png"/></a>
 <a><img width=40px style='padding-right:10px;' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" /></a>
 <a><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
