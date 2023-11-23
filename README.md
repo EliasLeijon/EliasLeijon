@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p>Currently, I'm in my fifth and final year at Linköping University, where I'm pursuing a degree in Computer Science with a specialized focus on Machine Learning, as well as taking every course required for a master's in Finance</p>
 
-<p> Here I will share some of my public personal projects relating to my interests and courses that I´ve taken. </p>
+<p> Here I will share some of my public personal projects relating to my interests and courses that I´ve taken.</p>
 
 Some relevant University courses:
 <ul>
@@ -25,15 +25,17 @@ Some relevant University courses:
   <li>Software Engineering - TDDC88</item>
   <li>Natural language processing</item>
   <li>Machine Learning - TDDE01</item>
-  <li>Financial valuation</item>
   <li>Data Mining - Clustering and Association Analysis - TDDD41</item>
   <li>Bayesian Learning - TDDE07</item>
   <li>Advanced C++ - TDDE15</item>
-  <li>Machine Learning for Computer Vision - TSBB19</item>
   <li>Advanced Project Course - AI and Machine Learning - TDDE19</item>
+  <li>Financial valuation</item>
+  <li>Corporate finance</item>
+  <li>Financial risk management</item>
+  <li>Financial valuation</item>
 </ul>
 
-<p> I have a passion for technology and am currently working on a few projects that I have to keep private, for example a stock trading bot, and a model for detecting ovarian cancer. If you share my passion and would like to work on something together, please feel free to reach out.</p>
+<p> I have a passion for various fields, including but not limited to, Computer Vision, Natural Language Processing, and algorithmic trading. I am also currently working on a few projects that I have to keep private, for example a stock trading bot, and a model for detecting ovarian cancer. If you share my passion and would like to work on something together, please feel free to reach out by email or through LinkedIN.</p>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/elias-leijonmarck-7317991b9/" target="_blank">
