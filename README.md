@@ -34,7 +34,7 @@ Some relevant University courses:
   <li>Financial Risk Management - TPPE32</item>
 </ul>
 
-<p> I have a passion for various fields, including but not limited to, Computer Vision, Natural Language Processing, and algorithmic trading. I am also currently working on a few projects that I have to keep private, for example a stock trading bot, and a model for detecting ovarian cancer. If you share my passion and would like to work on something together, please feel free to reach out by email or through LinkedIN.</p>
+<p> I have a passion for various fields, including but not limited to, Computer Vision, Natural Language Processing, and algorithmic trading. I am also currently working on a few private projects, for example a stock trading bot, and a model for detecting ovarian cancer. If you share my passion and would like to work on something together, please feel free to reach out by email or through LinkedIN.</p>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/elias-leijonmarck-7317991b9/" target="_blank">
